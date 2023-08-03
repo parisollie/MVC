@@ -28,7 +28,7 @@ class PokemonDataManager{
             ["image":"13", "name":"Jynx","move":"Mov: Puño hielo"],
             ["image":"14", "name":"Venusaur","move":"Mov: Rayo solar"],
             ["image":"15", "name":"Vulpix","move":"Mov: Fuego fatuo"],
-            ["image":"16", "name":"Slowbro","move":"Mov: Rayo hIelo"],
+            ["image":"16", "name":"Slowbro","move":"Mov: Rayo hielo"],
             ["image":"17", "name":"Dewgong","move":"Mov: Rayo aurora"],
             ["image":"18", "name":"Spearow","move":"Mov: Ataque rápido"],
             ["image":"19", "name":"Wigglytuff","move":"Mov: Doble cachetada"],
