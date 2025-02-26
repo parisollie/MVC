@@ -3,7 +3,7 @@
 //  MVC
 //
 //  Created by Paul Jaime Felix Flores on 29/07/23.
-//
+//  Actualizado
 
 import Foundation
 //Estructura para guardar la información que vamos a recibir de un diccionario.
